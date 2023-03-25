@@ -10,6 +10,5 @@
 https://www.linkedin.com/mwlite/profile/in/aleksei-odaikin-7aa45126a
 
 # Портфолио
-Завершил 2 проекта:
 - [Тестирование интернет-магазина](https://github.com/sonnungr/qa-engineer-project-84)
 - [Тестирование в продакшене](https://github.com/sonnungr/qa-engineer-project-85)
