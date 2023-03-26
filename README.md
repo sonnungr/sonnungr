@@ -22,4 +22,4 @@ https://www.linkedin.com/mwlite/profile/in/aleksei-odaikin-7aa45126a
 
 # Мои контакты
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ru.linkedin.com/in/aleksei-odaikin)
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]( t.me/AlekseiSonnungr)
